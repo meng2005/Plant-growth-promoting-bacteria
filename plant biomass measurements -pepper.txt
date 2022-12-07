@@ -1,0 +1,31 @@
+leaf weight -pepper
+uint： gram	
+Control	ATSA2T
+4.727	6.461
+5.095	7.644
+4.847	6.595
+4.842	6.348
+1.357	4.334
+
+
+
+
+
+root weight -pepper
+uint： gram
+1.418	1.8
+1.484	2.593
+1.605	2.684
+1.341	2.245
+0.32	1.951
+
+
+
+
+leaf No
+Control	ATSA2T
+18	28
+20	32
+16	29
+17	29
+10	20
